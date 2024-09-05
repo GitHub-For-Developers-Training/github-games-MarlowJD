@@ -1,9 +1,11 @@
 ## Welcome to GitHub Games
 
+I hope this is fun!
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://github-for-developers-training.github.io/github-games-MarlowJD/
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+>> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
